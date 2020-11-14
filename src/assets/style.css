@@ -1,0 +1,17 @@
+.colortitle	{ 
+    color: #0072A1; 
+    font: 18px arial, sans-serif; 
+    font-weight: normal; 
+    line-height: normal; 
+}
+.font-content-data-table{  
+    font: 12px arial, sans-serif; 
+    font-weight: normal; 
+    line-height: normal; 
+}
+/* table.v-data-table thead th {
+    font-size: 30px !important;
+}
+table.v-data-table tbody td {
+    font-size: 18px !important;
+} */
